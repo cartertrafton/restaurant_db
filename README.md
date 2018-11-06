@@ -22,8 +22,12 @@ cartertrafton@gmail.com - [@cartertrafton](https://github.com/cartertrafton/)
 - [x] ER Diagram
 - [x] Relational Model
 - [x] SQL Table Creation 
-- [ ] SQL Insert Data
+- [x] SQL Insert Data
+
 - [ ] Challenge Queries
+  - [ ] Lecture 6
+  - [ ] Lecture 7
+  - [ ] Lecture 8
 
 ### Resources
 - Proffesor Wu's lectures
