@@ -34,7 +34,7 @@ Pay_rate
 	
 	HOST
 	{Assigned_tables}
-  Tips
+ 	Tips
 
 
 TABLE 
