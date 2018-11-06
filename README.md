@@ -7,7 +7,6 @@ This project was created for my Database Management Systems class. We were taske
 
 ## Entities and Attributes
 
-
 ## ER Diagram
 ![ERD](https://raw.githubusercontent.com/cartertrafton/restaurant_db/master/ERD.png)
 
@@ -21,7 +20,7 @@ cartertrafton@gmail.com - [@cartertrafton](https://github.com/cartertrafton/)
 ### Timeline
 - [x] ER Diagram
 - [x] Relational Model
-- [x] SQL Table Creation 
+- [x] SQL Table Creation
 - [ ] SQL Insert Data
 - [ ] Challenge Queries
 
