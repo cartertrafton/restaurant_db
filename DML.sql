@@ -5,7 +5,6 @@
 SELECT *
 FROM CUSTOMER_t
 WHERE Phone LIKE '617%';
-
 	-- Get foods under 10 dollars
 SELECT *
 FROM FOOD_t
@@ -14,9 +13,10 @@ WHERE Price < 10;
 SELECT EmployeeID, E_Name
 FROM EMPLOYEE_t
 WHERE ;
-
 	-- Get tables with 6+ available seats
-
+SELECT TableNo AS Big Tables, Available_seats
+FROM TABLE_t
+WHERE Available_seats > 6;
 
 -- 	3 Intermediate Queries (based on lecture 7)
 	--

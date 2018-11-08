@@ -75,7 +75,7 @@ cartertrafton@gmail.com - [@cartertrafton](https://github.com/cartertrafton/)
 - [x] SQL Table Creation
 - [x] SQL Insert Data
 - [ ] Challenge Queries
-  - [ ] Lecture 6
+  - [x] Lecture 6
   - [ ] Lecture 7
   - [ ] Lecture 8
 
