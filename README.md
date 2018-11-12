@@ -1,4 +1,4 @@
-# Restaurant_DB (WIP)
+# Restaurant_DB
 >Restaurant Database - DBMS Final Project
 
 
@@ -74,10 +74,10 @@ cartertrafton@gmail.com - [@cartertrafton](https://github.com/cartertrafton/)
 - [x] SQL Insert Data
 - [x] SQL Table Creation
 - [x] SQL Insert Data
-- [ ] Challenge Queries
+- [x] Challenge Queries
   - [x] Lecture 6
-  - [ ] Lecture 7
-  - [ ] Lecture 8
+  - [x] Lecture 7
+  - [x] Lecture 8
 
 ### Resources
 - Proffesor Wu's lectures
