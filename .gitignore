@@ -1,0 +1,9 @@
+# Ignore Misc. folder
+_misc/*
+
+# Ignore final zip
+group12_final.zip
+group12_final/*
+
+# Ignore screenshots
+screenshots/*
